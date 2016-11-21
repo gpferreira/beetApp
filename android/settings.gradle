@@ -1,0 +1,3 @@
+rootProject.name = 'beetApp'
+
+include ':app'
