@@ -5,6 +5,6 @@
  */
 
 import { AppRegistry } from 'react-native';
-import Setup from './js/Setup';
+import Setup from './src/Setup';
 
 AppRegistry.registerComponent('beetApp', () => Setup);
